@@ -1,0 +1,6 @@
+{
+  "name": "Autonomous Software Engineer",
+  "description": "An autonomous AI software engineer that analyzes requirements, designs systems, retrieves technical docs, writes code, tests in an isolated sandbox, and auto-debugs genuine errors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
